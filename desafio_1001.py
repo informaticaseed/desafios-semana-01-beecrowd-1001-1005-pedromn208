@@ -12,3 +12,8 @@ você receberá "Presentation Error".
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
 
 # Escreva sua solução abaixo
+
+A = int(input('Digite um número inteiro:'))
+B = int(input('Digite outro número inteiro'))
+X = A+B
+print(f'A soma dos valores é igual a {X}')
