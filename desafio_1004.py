@@ -15,3 +15,7 @@ caso contrário seu programa apresentará a mensagem: "Presentation Error".
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1004
 
 # Escreva sua solução abaixo
+A = int(input("Digite o primeiro valor inteiro: "))
+B = int(input("Digite o segundo valor inteiro: "))
+PROD = A * B
+print(f"PROD = {PROD}")
